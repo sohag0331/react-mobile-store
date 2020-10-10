@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## <a href="https://react-mobiles-shop.netlify.app/">LIVE DEMO</a>
+## <a href="https://react-mobiles-shop.netlify.app/" target="_blank">LIVE DEMO</a>
 
 ## Available Scripts
 
